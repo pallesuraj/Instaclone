@@ -1,4 +1,4 @@
-package com.wert;
+package dev.notjust.photos;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

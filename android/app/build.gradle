@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.wert"
+    namespace "dev.notjust.photos"
     defaultConfig {
-        applicationId "com.wert"
+        applicationId "dev.notjust.photos"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

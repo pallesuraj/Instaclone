@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "wert.app"
-               BlueprintName = "wert"
-               ReferencedContainer = "container:wert.xcodeproj">
+               BuildableName = "notJustphotos.app"
+               BlueprintName = "notJustphotos"
+               ReferencedContainer = "container:notJustphotos.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "wertTests.xctest"
-               BlueprintName = "wertTests"
-               ReferencedContainer = "container:wert.xcodeproj">
+               BuildableName = "notJustphotosTests.xctest"
+               BlueprintName = "notJustphotosTests"
+               ReferencedContainer = "container:notJustphotos.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "wert.app"
-            BlueprintName = "wert"
-            ReferencedContainer = "container:wert.xcodeproj">
+            BuildableName = "notJustphotos.app"
+            BlueprintName = "notJustphotos"
+            ReferencedContainer = "container:notJustphotos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "wert.app"
-            BlueprintName = "wert"
-            ReferencedContainer = "container:wert.xcodeproj">
+            BuildableName = "notJustphotos.app"
+            BlueprintName = "notJustphotos"
+            ReferencedContainer = "container:notJustphotos.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
